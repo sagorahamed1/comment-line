@@ -1,5 +1,5 @@
 # comment-line
-if pod install dependance is 0 install have lots of depandances 
+#if pod install dependance is 0 install have lots of depandances 
 so you can add this code in your pod file
   # Uncomment this line to define a global platform for your project
 # platform :ios, '11.0'
